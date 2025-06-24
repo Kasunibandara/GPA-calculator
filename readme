@@ -1,5 +1,5 @@
 backend 
-npm run seed  (after database created)
+npm run seed  
 npm run dev    
 
 frontend
