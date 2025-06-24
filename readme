@@ -1,0 +1,6 @@
+backend 
+npm run seed  (after database created)
+npm run dev    
+
+frontend
+npm start
